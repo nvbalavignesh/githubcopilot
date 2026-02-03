@@ -488,4 +488,3 @@ Validate row counts and compare plans.
 
 ```
 
-If you tell me your primary engine (Azure SQL / Postgres / MySQL / Oracle) and whether you want this optimized more for **latency** or **concurrency**, I can tighten the instruction file even more (e.g., add SQL Server-specific plan/DMV guidance, tempdb spill checks, parameter sniffing playbook, etc.).
